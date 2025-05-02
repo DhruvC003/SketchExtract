@@ -105,6 +105,6 @@ Push to the branch (git push origin feature/your-feature)
 
 Open a pull request
 
-📬 Contact
+### 📬 Contact
 Created by Dhruv C
 GitHub: @DecentCraze
