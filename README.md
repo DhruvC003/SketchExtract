@@ -31,9 +31,10 @@ Create and transform your drawings into IRL faces with SketchExtract! 🎨✨
 - Dart SDK  
 - A working image-processing API (you can deploy your own or use an existing one)
 
-###  📬 Contact
--Created by Dhruv C
--GitHub: @DecentCraze
+## 📬 Contact  
+Created by **Dhruv C**  
+GitHub: [@DecentCraze](https://github.com/DecentCraze)  
+
 
 ### Installation  
 
