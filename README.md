@@ -23,6 +23,7 @@ Create and transform your drawings into IRL faces with SketchExtract! 🎨✨
 - **Image Processing:** AI model (handled via the API)
 
 ---
+[Read the Paper](https://sketchextract.tiiny.site)
 
 ## Getting Started  
 
@@ -42,5 +43,6 @@ GitHub: [@DecentCraze](https://github.com/DecentCraze)
 git clone https://github.com/your-username/SketchExtract.git
 cd SketchExtract
 flutter pub get
+
 
 
