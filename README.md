@@ -13,6 +13,15 @@ SketchExtract is a creative mobile application that lets users draw a face freeh
   />
 </p>
 
+## FlowChart
+<p align="center">
+  <img
+    src="https://github.com/DhruvC003/SketchExtract/blob/main/Screenshot%202025-03-25%20095621.png?raw=true"
+    alt="SketchExtract - FlowChart"
+    width="100%"
+  />
+</p>
+
 ## Features
 
 - **Interactive drawing canvas** — Draw using your finger or a stylus.
@@ -75,4 +84,3 @@ Read the paper: [SketchExtract Research Paper](https://sketchextract.tiiny.site)
 
 ---
 
-*Note: Update the repository URL above if your GitHub repository uses a different name.*
