@@ -6,7 +6,7 @@ SketchExtract is a creative mobile application that lets users draw a face freeh
 
 ## Preview
 
-![SketchExtract app and AI transformation workflow](assets/results-and-discussion.png)
+https://github.com/DhruvC003/SketchExtract/blob/main/results-and-discussion.png?raw=true
 
 ## Features
 
