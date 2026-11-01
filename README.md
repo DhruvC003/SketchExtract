@@ -5,8 +5,13 @@
 SketchExtract is a creative mobile application that lets users draw a face freehand and transform the sketch into a realistic face rendering using an AI-powered image-processing backend.
 
 ## Preview
-
-https://github.com/DhruvC003/SketchExtract/blob/main/results-and-discussion.png?raw=true
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DhruvC003/SketchExtract/main/results-and-discussion.png"
+    alt="SketchExtract - AI Sketch to Realistic Face Transformation"
+    width="100%"
+  />
+</p>
 
 ## Features
 
